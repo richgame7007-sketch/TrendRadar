@@ -44,8 +44,6 @@ DJI
 
 京东
 腾讯
-胖东来
-
 
 字节
 bytedance
@@ -112,3 +110,7 @@ gemini
 宇宙
 飞船
 航空
+
+Nano Banana
+Midjourney
+Seedream
